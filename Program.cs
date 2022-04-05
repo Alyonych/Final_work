@@ -2,7 +2,7 @@
 // (Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма.
 // При решении лучше обойтись массивами).
 
-string[] frstArry = {"program", "123", "bin", "final", "obj", "run", "p", "2", "ok"};
+string[] frstArry = {"program", "123", "bin", "final", "obj", "run", "p", "2", "ok", "-", "---"};
 string[] scndArry;
 int count = 0;
 int length = 0;
